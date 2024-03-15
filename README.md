@@ -40,6 +40,7 @@ O OAuth 2.0 é um protocolo de autorização que permite que aplicativos obtenha
 
 ![](./.github/1_sKMuwrkHJM6ZlE4e6M8UsQ.png)
 
-https://www.youtube.com/watch?v=68azMcqPpyo
+https://www.youtube.com/watch?v=68azMcqPpyo]
+
 
 
